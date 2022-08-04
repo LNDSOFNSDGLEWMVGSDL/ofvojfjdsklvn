@@ -1,0 +1,14 @@
+{
+  "PREFIX": "!!",
+  "TOKEN": "OTk0MjY0NjI4MjQwNTkyODk2.GWRrdQ.T7Prl9r7uRay2Wlm9s4T--wxlV-BWzZBf8cJ5w",
+  "OWNER_ID": "992403878425411745",
+  "CLIENT_ID": "994264628240592896",
+  "GUILD_ID": "994491998583144562",
+  "NODES": [
+    {
+      "host": "n1.lavalink.milrato.com",
+      "port": 10150,
+      "password": "discord.gg/milrato"
+    }
+  ]
+}
